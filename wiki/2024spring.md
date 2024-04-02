@@ -13,48 +13,48 @@
 🤖 = Robotics event upcoming weekend
 
 
-### Wk01 - Jan 09
+#### Wk01 - Jan 09
   - Snowball Activity
   - Recruitment Preparation
 
-### Wk02 - Jan 16 + 17 📞🤖
+#### Wk02 - Jan 16 + 17 📞🤖
   - Spring Callout
 
-### Wk03 - Jan 23 ✅🚸
+#### Wk03 - Jan 23 ✅🚸
   - Youth Protection Training
 
-### Wk04 - Jan 30
+#### Wk04 - Jan 30
   - FIRST Jeopardy
 
-### Wk05 - Feb 06 ✅
+#### Wk05 - Feb 06 ✅
   - Exec Roles 
 
-### Wk06 - Feb 13
+#### Wk06 - Feb 13
   - Andy Baker (FIRST Culture & Innovation)
 
-### Wk07 - Feb 20
+#### Wk07 - Feb 20
   - Brad Thompson (Artisanal Leadership)
 
-### Wk08 - Feb 27 🤖
+#### Wk08 - Feb 27 🤖
   - Safety Glasses Decorating
 
-### Wk09 - Mar 05 ✅🗳️🤖
+#### Wk09 - Mar 05 ✅🗳️🤖
   - Elections
 
-### Wk10 - Mar 12 ❌🤖
+#### Wk10 - Mar 12 ❌🤖
   - Spring Break
 
-### Wk11 - Mar 19 🤖
+#### Wk11 - Mar 19 🤖
   - Chris Osborne + Ashley Robbins (FIN + PFP)
 
-### Wk12 - Mar 26 🤖
+#### Wk12 - Mar 26 🤖
   - Desmine Robinson (Self Leadership)
 
-### Wk13 - Apr 02 ✅🤖
+#### Wk13 - Apr 02 ✅🤖
   - PFP Alumni Pannel
 
-### Wk14 - Apr 09
-### Wk15 - Apr 16
-### Wk16 - Apr 23 🥳
-### Wk17 - Apr 30 ❌
+#### Wk14 - Apr 09
+#### Wk15 - Apr 16
+#### Wk16 - Apr 23 🥳
+#### Wk17 - Apr 30 ❌
   - Finals
