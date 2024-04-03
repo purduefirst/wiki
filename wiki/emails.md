@@ -1,5 +1,5 @@
 #PFP Emails
-<img src="/assets/PFP_Emails.svg" alt="Grid of PFP emails and their aliases.">
+<img src="./assets/images/PFP_Emails.svg" alt="Grid of PFP emails and their aliases.">
 
 ## ZoHo-Gmail integration process
 
