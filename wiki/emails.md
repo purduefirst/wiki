@@ -9,20 +9,29 @@
   - Login to Gmail
   - Open settings in gmail (gear icon)
   - Choose 'See all settings'
-  - Nagivate to the 'Accounts and Import' tab
-  - Choose 'Add an email account' under 'Check mail from other accounts'
-2. Setup receving
-  - Follow the directions in the yellow dialog box
+  - Navigate to the 'Accounts and Import' tab
+  - Choose 'Add an mail account' under 'Check mail from other accounts'
+2. Generate ZoHo Application password
+  - Login to ZoHo account you want to integrate
+  - Go to 'My Account' settings
+  - Choose 'Security' Tab
+  - Scroll down to 'Application-Specific Passwords'
+  - Generate one for 'Gmail', don't close the pop-up until step (6)
+3. Setup receiving
+  - Return to the Gmail yellow dialog box and follow its instructions
   - Email is ####@purduefirst.org (#### = subteam)
   - Import using 'POP3'
-  - Enter the ZoHo email and password
+  - Enter the ZoHo email
+  - Enter ZoHo Application password
   - POP server: `pop.zoho.com` port: `995`
   - Check 'use an SLL connection' box
-3. Setup sending
-  - Contuine the directions in the yellow dialog box
+4. Setup sending
+  - Continue the directions in the yellow dialog box
   - 'Yes' to being able to send
   - SMTP (IMAP) server: `smtp.zoho.com` port: `465`
-  - Use the ZoHo email and password
-4. Send test emails to confirm connection
+  - Enter the ZoHo email
+  - Enter ZoHo Application password
+5. Send test emails to confirm connection
   - May have to unflag the connection on ZoHo side
-5. Enjoy
+6. Enjoy
+
