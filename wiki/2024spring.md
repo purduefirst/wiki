@@ -53,8 +53,11 @@
 #### Wk13 - Apr 02 ✅🤖
   - PFP Alumni Pannel
 
-#### Wk14 - Apr 09
+#### Wk14 - Apr 09 ❌
+  - Catch-Up from states
 #### Wk15 - Apr 16
+  - Sub-Team olympics
 #### Wk16 - Apr 23 🥳
+  - PFParty?
 #### Wk17 - Apr 30 ❌
   - Finals
