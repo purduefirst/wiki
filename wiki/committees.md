@@ -1,8 +1,8 @@
 Committees are focused groups looking to create change in the org.
 
-### BRYCE (Boiler Robotics & Youth Community Education) [Bryce Castle] <a href="#BRYCE"></a>
-- Figure out the genius who put three double letters in “committee”
-- Migrate website to google sites
+### BRYCE (Boiler Robotics & Youth Community Education) [OPEN] <a href="#BRYCE"></a>
+- ~~Figure out the genius who put three double letters in “committee”~~ ✔️ 09/12/24 Horace Walpole / The Romans
+- ~~Migrate website to google sites~~ ✔️ 05/07/24
 - ~~Install email inboxes~~ [✔️ 04/03/24](emails.md)
 - PFP Wiki (History, Guides, Proceedures)
 - Student Database
