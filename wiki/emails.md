@@ -1,6 +1,9 @@
 # PFP Emails
 <img src="./assets/images/PFP_Emails.svg" alt="Grid of PFP emails and their aliases.">
 
+## ZoHo limitations
+You can only send 50 emails a day, consider using first@purdue.edu for mass emails. The limit resets at midnight local time.
+
 ## ZoHo-Gmail integration process
 
 *Transcribed from https://bluroot.ca/step_by_step/how-to-use-zoho-mail-in-gmail/*
