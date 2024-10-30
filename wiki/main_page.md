@@ -27,7 +27,7 @@ Purdue FIRST Programs (PFP) is a Purdue student organization supporting the FIRS
 - [🚸 Youth Protection Training](https://www.purdue.edu/ethics/youth_protection/Staff/Training.php)
 - [🔗 Boilerlink Page](https://boilerlink.purdue.edu/organization/purduefirstprograms/)
 - [📖 PFP acronyms + dictionary](dictionary.md)
-- [🚗 RM01S](https://www.purdue.edu/business/risk_mgmt/Vehicle_Use_Info/index.html)
+- [🚗 RM01S](RM01S.md)
 - [📔 Branding](branding.md)
 
 **ToDos**
