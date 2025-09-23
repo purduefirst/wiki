@@ -7,7 +7,7 @@
   | 7:00 - 7:30 | Org Activity |
   | 7:30 - 8:00 | Exec Meeting |
 
-## Spring 2024 Schedule
+## Spring 2025 Schedule
 ❌ = Canceled, ✅ = Required
 
 🤖 = Robotics event upcoming weekend
