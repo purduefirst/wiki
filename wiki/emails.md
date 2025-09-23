@@ -36,5 +36,5 @@ You can only send 50 emails a day, consider using first@purdue.edu for mass emai
   - Enter ZoHo Application password
 5. Send test emails to confirm connection
   - May have to unflag the connection on ZoHo side
-6. Enjoy
+6. Enjoy your new connection
 
