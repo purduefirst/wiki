@@ -18,15 +18,19 @@ DONTs:
 * Be negative to others.
 
 ### Zero to Hero
+
+Interested in volunteering? This handy guide will step you through everything you need to suceeed. The alarm-clock icons "⏰" let you know when something should be completed to be on-time for event readiness.
+
 1. Visit the [event listings](https://www.firstinspires.org/team-event-search#type=events&sort=date&programs=FLL,FTC,FRC&country=USA&stateprov=IN) on the FIRST website or [FIN calendar](https://www.firstindianarobotics.org/program-calendar/) to find nearby events
   * Check with PFP to see if they're going. If so, there are extra steps for Purdue (see points 6-8) and you will need to provide your mobile phone number
 2. Create an account on the [FIRST dashboard](https://my.firstinspires.org/Dashboard/)
 3. Register for the event using the [event wizard](https://my.firstinspires.org/Volunteers/Wizard/Search/)
-  * Apply filters or search for the event, clicking on "VOLUNTEER"
+  * Apply filters or search for the event
+  * Click on "VOLUNTEER" for your event of interest
   * Select which days you can volunteer
-  * Rank which roles you are most interested in, you can review the [FRC role descriptions](https://www.firstinspires.org/resource-library/frc/volunteer-event-roles-and-training-resources) or [FTC role descriptions](https://www.firstinspires.org/sites/default/files/uploads/resource_library/volunteer/ftc-volunteer-role-descriptions.pdf) to get a better idea
+  * Rank which roles you are most interested in, you can review the [FIRST role descriptions](https://www.firstinspires.org/community/volunteers/) to get a better idea
   * Finish your application, the event volunteer coordinator may reach out in the next few days
-  * ⏰As soon as you know & can commit
+  * ⏰As soon as you know **& can commit**
 4. Begin the FIRST Youth Protection Background Screening via the [FIRST dashboard](https://my.firstinspires.org/Dashboard/)
   * Can access it by clicking on your profile in the top-right and selecting "Youth Protection Screening"
   * If you need to complete it, you should be taken to an external page to collect information
@@ -35,9 +39,9 @@ DONTs:
 5. FIRST Consent & Release Form via the [FIRST dashboard](https://my.firstinspires.org/Dashboard/)
   * Can access it by clicking on your profile in the top-right and selecting "Acknowledgement Forms"
   * ⏰After account creation
-6. Purdue [RM01S](RM01S.md) (driver license certification)
+6. Purdue [RM01](RM01.md) (driver license certification)
   * Two student per vehicle when traveling outside of Purdue's county
-  * Organization is “Purdue FIRST Programs” or “Purdue FIRST Programs (Indianapolis)” depending on your primary location
+  * Put organization as “Purdue FIRST Programs”
   * Typically takes 1-3 business days to process
   * ⏰Monday Midday
 7. PFP Membership Agreement (due each semester)
@@ -46,14 +50,18 @@ DONTs:
   * ⏰Tuesday Night
 8. [Purdue Youth Protection](https://www.purdue.edu/ethics/youth_protection/Staff/Training.php)
   * Most student will only need to complete the "Program Staff Training"
+  * Takes about 20 - 30 minutes to complete
   * Your name will be checked against [registries](https://www.purdue.edu/ethics/youth_protection/Staff/background_checks.php)
   * PFP-IN: Submit screenshot of completion using [this form](https://boilerlink.purdue.edu/submitter/form/start/661063)
   * ⏰Wednesday Night
-9. Role Trainings
-  * Via BlueBolt on the [FIRST dashboard](https://my.firstinspires.org/Dashboard/)
+9. [FIRST Youth Protection](https://training.firstinspires.org/learn/course/youth-protection)
+  * Takes about 60 - 80 minutes to complete
+  * ⏰Thursday Night
+10. Role Trainings
+  * On the [FIRST Training Portal](https://training.firstinspires.org/learn/dashboard)
   * ⏰Before event day
 
 ### Programs
-[![FIRST Robotics Competition Logo](./assets/FIRST_logos/logo_FRC.svg)](volunteering_frc.md) <br>
-[![FIRST Robotics Tech Challenge](./assets/FIRST_logos/logo_FTC.svg)](volunteering_ftc.md) <br>
-[![FIRST Lego League](./assets/FIRST_logos/logo_FLL.svg)](volunteering_fll.md)
+[![FIRST Robotics Competition Logo](./assets/FIRST_logos/logo_FRC.svg)](volunteering_frc) <br>
+[![FIRST Robotics Tech Challenge](./assets/FIRST_logos/logo_FTC.svg)](volunteering_ftc) <br>
+[![FIRST Lego League](./assets/FIRST_logos/logo_FLL.svg)](volunteering_fll)
