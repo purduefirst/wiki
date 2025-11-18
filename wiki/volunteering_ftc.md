@@ -1,9 +1,10 @@
 ## Example FTC Event Schedule
+
 | **Time**         | **Activity**                            |
-|------------------|-----------------------------------------|
+| ---------------- | --------------------------------------- |
 | 7:00 - 7:30am    | Volunteers Arrive                       |
 | 7:30am           | Pits Open                               |
-| 8:20 - 10:20     | Judging Sessions Robot/Field Inspection |
+| 8:20 - 10:20am   | Judging Sessions Robot/Field Inspection |
 | 10:30am          | Driver's Meeting                        |
 | 10:45 - 11:00am  | Opening Ceremonies                      |
 | 11:00am - 4:00pm | Qualification Matches                   |
