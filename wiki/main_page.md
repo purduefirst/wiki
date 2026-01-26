@@ -1,6 +1,3 @@
----
-redirect_from: "/"
----
 Purdue FIRST Programs (PFP) is a Purdue student organization supporting the FIRST robotics community since 1999 (incorporated 2004).
 
 **Mission Statement:** We believe that youth STEM programs help build a better future and inspiring others doesn’t stop at college. Our Goal is to be involved in the FIRST community and leave it better than we found it.

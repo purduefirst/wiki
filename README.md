@@ -1,23 +1,37 @@
-# PFP_wiki
+# Purdue FIRST Programs
 
-A place to store information about the Purdue FIRST Programs organization. Information is stored in [markdown](https://www.markdownguide.org/cheat-sheet/) files and rendered as webpages using Jekyll.
+Purdue FIRST Programs (PFP) is a Purdue student organization supporting the FIRST robotics community since 1999 (incorporated 2004).
 
-## git-wiki Features 
+**Mission Statement:** We believe that youth STEM programs help build a better future and inspiring others doesn't stop at college. Our Goal is to be involved in the FIRST community and leave it better than we found it.
 
-* Improvements in the **cooperative** aspect: forks, pull requests and roles.
-* You can **customize your wiki** as you want with stylesheets and even changing the layout (see customization section below).
-* **No databases!** Only static files that can be downloaded in a few seconds.
-* **Blazing fast** and free thankfully to GitHub/Gitlab Pages and Jekyll Server Side Generation process!
-* **Markdown and HTML** mixed together!
-* **Multiple free search engines!** on a static site!
-* **History, revision comparison** and everything you need from a wiki platform.
-* You can **edit your pages** with the standard git editor, prose.io (integrated) or any kind of editor you prefer.
-* Non-existent wiki page links are "[red](red.md)", you can **click on them to automatically create a new page**!
-* [External links](http://example.com) get the right icon automatically.
-* **Component system with hooks** that allows you to completely customize your wiki UI (see customization section below).
-* Some **nice internal themes** to change your entire wiki UI with 1 simple configuration (see customization section below).
-* Integrated **Blogging** feature thanks to Jekyll!
-* Automatically generated **TOC**!
-* You can download the entire wiki for **offline** usage and even navigate directly using a Markdown reader!
+**Purpose:** CHALLENGE future leaders, MENTOR current students, ENGAGE the local community
 
-Instructions and full documentation: [http://drassil.github.io/git-wiki](http://drassil.github.io/git-wiki)
+**Branches:** [Exec Board](/wiki/exec.md), [Events](/wiki/events.md), [Media](/wiki/media.md), [FRC Mentoring](/wiki/mentor_frc.md), [Jr Mentoring (FLL+FTC)](/wiki/mentor_jr.md), [Current Committees](/wiki/committees.md)
+
+**Meetings:** 6-7pm in WALC 2124 *[(fall 2024)](/wiki/2024fall.md)*
+
+**Office:** DUDL 2472
+
+**Annual Public Events**
+- [Boiler Bot Battle ("B3")](/wiki/B3.md)
+- [Purdue FIRST Fourms](/wiki/fourms.md)
+- [FTC Kickoff](/wiki/kickoff_FTC.md)
+- [FRC Kickoff](/wiki/kickoff_FRC.md)
+- [FRC Design Review](/wiki/design_review.md)
+- [FRC Open House](/wiki/open_house.md)
+- [FIRST Event Volunteering](/wiki/volunteering_main.md)
+
+**Commonly Accessed Resources**
+- [🤝 Volunteering](/wiki/volunteering_main.md)
+- [🚸 Youth Protection Training](https://www.purdue.edu/ethics/youth_protection/Staff/Training.php)
+- [🔗 Boilerlink Page](https://boilerlink.purdue.edu/organization/purduefirstprograms/)
+- [📖 PFP acronyms + dictionary](/wiki/dictionary.md)
+- [🚗 RM01](/wiki/RM01.md)
+- [📔 Branding](/wiki/branding.md)
+
+**ToDos**
+- [PFP History](/wiki/history.md)
+- ON/OFF-boarding procedures
+- reporting system
+- FIRST on Resumes
+- BESSE?
