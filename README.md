@@ -6,7 +6,7 @@ Purdue FIRST Programs (PFP) is a Purdue student organization supporting the FIRS
 
 **Purpose:** CHALLENGE future leaders, MENTOR current students, ENGAGE the local community
 
-**Branches:** [Exec Board](/wiki/exec.md), [Events](/wiki/events.md), [Media](/wiki/media.md), [FRC Mentoring](/wiki/mentor_frc.md), [Jr Mentoring (FLL+FTC)](/wiki/mentor_jr.md), [Current Committees](/wiki/committees.md)
+**Branches:** [Exec Board](/wiki/exec.md), [Events](/wiki/events.md), [Media](/wiki/media.md), [FRC Mentoring](/wiki/mentor_frc.md), [FTC Mentoring](/wiki/mentor_jr.md), [FLL Mentoring](/wiki/mentor_jr.md), [IT](/wiki/it.md), [Current Committees](/wiki/committees.md)
 
 **Meetings:** 6-7pm in WALC 2127 *[(Spring 2026)](/wiki/2026spring.md)*
 
@@ -15,11 +15,9 @@ Purdue FIRST Programs (PFP) is a Purdue student organization supporting the FIRS
 **Annual Public Events**
 - [Boiler Bot Battle ("B3")](/wiki/B3.md)
 - [Purdue FIRST Fourms](/wiki/fourms.md)
-- [FTC Kickoff](/wiki/kickoff_FTC.md)
-- [FRC Kickoff](/wiki/kickoff_FRC.md)
-- [FRC Design Review](/wiki/design_review.md)
 - [FRC Open House](/wiki/open_house.md)
 - [FIRST Event Volunteering](/wiki/volunteering_main.md)
+- [Old Events](/wiki/event_history.md)
 
 **Commonly Accessed Resources**
 - [🤝 Volunteering](/wiki/volunteering_main.md)
@@ -34,4 +32,3 @@ Purdue FIRST Programs (PFP) is a Purdue student organization supporting the FIRS
 - ON/OFF-boarding procedures
 - reporting system
 - FIRST on Resumes
-- BESSE?
