@@ -22,50 +22,51 @@
 
 #### Statehouse Day - 1/29
 
-#### Presentation Night - 1/29
-  - 6-8pm GRIS 134
-
 #### FTC West Lafayette QT 1 - 1/31
 
 #### FTC West Lafayette QT 2 - 2/1
 
-#### Wk04 - Feb 10
-  - 
+#### Wk04 - Feb 3
+  - PFPresentation Night
 
-#### Wk05 - Feb 17
-  -  
+#### Wk05 - Feb 10
+  - Election Nomination open
+  - Valentines Decorating
+
+#### Wk06 - Feb 17
+  -  Jeopardy
 
 #### FTC Green Wood QT - 2/21
 
-#### Wk06 - Feb 24
-  - 
+#### Wk07 - Feb 24
+  - PFP History
 
-#### Wk07 - Mar 3
-  - 
+#### Wk08 - Mar 3
+  - FLL Robot Build Day
 
-#### Wk08 - Mar 10
-  - 
+#### Wk09 - Mar 10
+  - Elections
 
-#### Wk09 Spring Break ❌
+#### Wk10 Spring Break ❌
 
-#### Wk10 - Mar 24
-  - 
+#### Wk11 - Mar 24
+  - PFPictionary
 
 #### FRC Lafayette Mar 26 - Mar 28
 
-#### Wk11 - Mar 31
-  - 
+#### Wk12 - Mar 31
+  - PFPitch It
 
-#### Wk12 - Apr 7
-  - 
+#### Wk13 - Apr 7
+  - PFPanel - Alumni
 
-#### Wk13 - Apr 14
-  - 
+#### Wk14 - Apr 14
+  - FRC State Travel Info
 
 #### FRC State Apr 17 - Apr 19
 
-#### Wk14 - Apr 21 ❌
-  - Catch-Up from states
+#### Wk15 - Apr 21 
+  - Spring Craft
 
-#### Wk15 - Apr 28 
-  - 
+#### Wk16 - Apr 28 
+  - Subteam Olympics
