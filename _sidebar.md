@@ -16,7 +16,7 @@
 
 - **Events**
   - [Purdue FIRST Forums](/wiki/fourms.md)
-  - [2025 Spring](/wiki/2025spring.md)
+  - [2026 Spring](/wiki/2026spring.md)
 
 - **Resources**
   - [PFP Dictionary](/wiki/dictionary.md)
