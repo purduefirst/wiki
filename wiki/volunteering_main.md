@@ -62,6 +62,6 @@ Interested in volunteering? This handy guide will step you through everything yo
   * ⏰Before event day
 
 ### Programs
-[![FIRST Robotics Competition Logo](./assets/FIRST_logos/logo_FRC.svg)](volunteering_frc) <br>
-[![FIRST Robotics Tech Challenge](./assets/FIRST_logos/logo_FTC.svg)](volunteering_ftc) <br>
-[![FIRST Lego League](./assets/FIRST_logos/logo_FLL.svg)](volunteering_fll)
+[![FIRST Robotics Competition Logo](/assets/FIRST_logos/logo_FRC.svg)](volunteering_frc) <br>
+[![FIRST Robotics Tech Challenge](/assets/FIRST_logos/logo_FTC.svg)](volunteering_ftc) <br>
+[![FIRST Lego League](/assets/FIRST_logos/logo_FLL.svg)](volunteering_fll)
